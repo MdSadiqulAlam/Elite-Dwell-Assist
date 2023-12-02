@@ -1,6 +1,19 @@
 # Elite-Dwell-Assist
 SDP-i  (this is the 1st web app in my undergrad life) 
 
+## url 
+https://gorgeous-sunflower-64903b.netlify.app/
+
+## video link 
+https://www.facebook.com/100004821604675/posts/pfbid02gC2y6SHzHqbCARs7KgBgJcac5z8wFMBsvxHgirSaHao3iXdvDZX6Ycjzi6y9i1qKl
+
+## figma link
+https://www.figma.com/file/5sNEaWmDzWDTImaHytfsnH/elite_dwell_assist?type=design&node-id=0%3A1&mode=design&t=PIaZhmeHbdVd9dw0-1
+
+## server link
+https://cloud.mongodb.com/v2/6557684a1d206408ab651009#/overview 
+
+
 Purpose: Our project addresses the pressing need for a seamless and secure platform that bridges the gap between users and trustworthy service providers.
 
 Significance: In a fast-paced world, finding skilled professionals like drivers, maids, electricians, and caregivers is a challenge. Our platform strives to bring convenience, reliability, and peace of mind to your household needs.
